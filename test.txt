@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 this is my first code 01
 test -02
+=======
+this is my first code 
+test
+>>>>>>> 18640cfe2898c04afbad460dbd432446b5b9ef87
